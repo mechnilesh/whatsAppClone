@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "593309227349",
+    "project_id": "wpclonemn",
+    "storage_bucket": "wpclonemn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593309227349:android:550f7323d41f8fb79337dc",
+        "android_client_info": {
+          "package_name": "com.example.wpclonemn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593309227349-kenpp4t7l4o8d5f71kga6cigtj05af5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wpclonemn",
+            "certificate_hash": "64ccf5b08b8f222649eeb603dda9f14dd2067431"
+          }
+        },
+        {
+          "client_id": "593309227349-0f7kuk7bfep87rr1gd2k7tdjpg2kpo97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc6YjegxU1Hd4TqMAbrQzcaWrTelnCuUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593309227349-0f7kuk7bfep87rr1gd2k7tdjpg2kpo97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593309227349-adn21n2451ptngc6k05ff3fejpe7l0ps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wpclonemn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
