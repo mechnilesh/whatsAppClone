@@ -55,7 +55,7 @@ class MyApp extends ConsumerWidget {
             loading: () => Scaffold(
               backgroundColor: backgroundColor,
               body: Center(
-                child: Text('Loading...'),
+                child: Text('Please wait...'),
               ),
             ),
           ),
